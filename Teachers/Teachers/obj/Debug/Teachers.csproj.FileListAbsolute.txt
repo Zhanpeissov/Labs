@@ -1,0 +1,6 @@
+c:\users\ljv\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Teachers.exe.config
+c:\users\ljv\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Teachers.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Teachers\Teachers\bin\Debug\Teachers.pdb
+c:\users\ljv\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.csprojResolveAssemblyReference.cache
+c:\users\ljv\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Teachers\Teachers\obj\Debug\Teachers.pdb
