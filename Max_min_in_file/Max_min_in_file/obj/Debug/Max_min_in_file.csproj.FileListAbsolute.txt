@@ -1,0 +1,6 @@
+c:\users\ljv\documents\visual studio 2015\Projects\Max_min_in_file\Max_min_in_file\bin\Debug\Max_min_in_file.exe.config
+c:\users\ljv\documents\visual studio 2015\Projects\Max_min_in_file\Max_min_in_file\bin\Debug\Max_min_in_file.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Max_min_in_file\Max_min_in_file\bin\Debug\Max_min_in_file.pdb
+c:\users\ljv\documents\visual studio 2015\Projects\Max_min_in_file\Max_min_in_file\obj\Debug\Max_min_in_file.csprojResolveAssemblyReference.cache
+c:\users\ljv\documents\visual studio 2015\Projects\Max_min_in_file\Max_min_in_file\obj\Debug\Max_min_in_file.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Max_min_in_file\Max_min_in_file\obj\Debug\Max_min_in_file.pdb
