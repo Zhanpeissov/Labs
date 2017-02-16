@@ -1,0 +1,6 @@
+c:\users\ljv\documents\visual studio 2015\Projects\Smallest_prime_number\Smallest_prime_number\bin\Debug\Smallest_prime_number.exe.config
+c:\users\ljv\documents\visual studio 2015\Projects\Smallest_prime_number\Smallest_prime_number\bin\Debug\Smallest_prime_number.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Smallest_prime_number\Smallest_prime_number\bin\Debug\Smallest_prime_number.pdb
+c:\users\ljv\documents\visual studio 2015\Projects\Smallest_prime_number\Smallest_prime_number\obj\Debug\Smallest_prime_number.csprojResolveAssemblyReference.cache
+c:\users\ljv\documents\visual studio 2015\Projects\Smallest_prime_number\Smallest_prime_number\obj\Debug\Smallest_prime_number.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Smallest_prime_number\Smallest_prime_number\obj\Debug\Smallest_prime_number.pdb
