@@ -1,0 +1,6 @@
+c:\users\ljv\documents\visual studio 2015\Projects\Complex_numbers1\Complex_numbers1\bin\Debug\Complex_numbers1.exe.config
+C:\Users\ljv\Documents\Visual Studio 2015\Projects\Complex_numbers1\Complex_numbers1\bin\Debug\Complex_numbers1.exe
+C:\Users\ljv\Documents\Visual Studio 2015\Projects\Complex_numbers1\Complex_numbers1\bin\Debug\Complex_numbers1.pdb
+C:\Users\ljv\Documents\Visual Studio 2015\Projects\Complex_numbers1\Complex_numbers1\obj\Debug\Complex_numbers1.csprojResolveAssemblyReference.cache
+C:\Users\ljv\Documents\Visual Studio 2015\Projects\Complex_numbers1\Complex_numbers1\obj\Debug\Complex_numbers1.exe
+C:\Users\ljv\Documents\Visual Studio 2015\Projects\Complex_numbers1\Complex_numbers1\obj\Debug\Complex_numbers1.pdb
