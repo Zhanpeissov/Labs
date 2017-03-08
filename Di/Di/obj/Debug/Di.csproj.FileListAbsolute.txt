@@ -1,0 +1,6 @@
+c:\users\ljv\documents\visual studio 2015\Projects\Di\Di\bin\Debug\Di.exe.config
+c:\users\ljv\documents\visual studio 2015\Projects\Di\Di\bin\Debug\Di.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Di\Di\bin\Debug\Di.pdb
+c:\users\ljv\documents\visual studio 2015\Projects\Di\Di\obj\Debug\Di.csprojResolveAssemblyReference.cache
+c:\users\ljv\documents\visual studio 2015\Projects\Di\Di\obj\Debug\Di.exe
+c:\users\ljv\documents\visual studio 2015\Projects\Di\Di\obj\Debug\Di.pdb
